@@ -1,8 +1,10 @@
 # Salon-web-page
 A complete website for a beauty salon
 
-Sobre o Projeto(Desenvolvido na maratona NLW Rocketseat)
+About the Project(Developed at the NLW Rocketseat marathon)
 
-Beauty Salon é um website de apresentação para mostrar o serviço de um salão de beleza
+Beauty Salon is a presentation site to showcase the services of a beauty salon
 
-![JPEG](https://user-images.githubusercontent.com/102544229/175927586-e82eddba-cc3e-4b15-ad2e-2fbd9b9110f6.jpg)
+![JPEG](https://user-images.githubusercontent.com/102544229/175928121-316fe45f-367d-4fb1-b6c6-f0d6d05f5dd9.jpg)
+
+
